@@ -1,0 +1,25 @@
+{
+  "name": "ninjachat",
+  "version": "1.0.0",
+  "description": "chat app using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "socketio-chat"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "ofekshmuely"
+  ],
+  "author": "ofek shmuely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "socket.io": "^2.2.0"
+  }
+}
